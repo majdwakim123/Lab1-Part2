@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello world");
         System.out.println("Kiss my ass");
         System.out.println("Lick my ass");
+        System.out.println("Fuck you");
     }
 }
