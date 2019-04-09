@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Kiss my ass");
         System.out.println("Lick my ass");
         System.out.println("Fuck you");
+        System.out.println("I love you bitch");
     }
 }
